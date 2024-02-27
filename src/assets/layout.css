@@ -1,0 +1,10 @@
+@layer base {
+  html,
+  body {
+    @apply font-normal text-base cursor-default;
+  }
+
+  body {
+    @apply bg-gray text-white;
+  }
+}
